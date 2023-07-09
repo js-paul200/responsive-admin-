@@ -312,10 +312,10 @@ tr td:last-child{
 .sidebar li a span:last-child{
     display: none;
 }
- .main-content{
+.main-content{
     margin-left: 70px;
 }
- .main-content header{
+.main-content header{
     width: calc(100% - 70px);
     left: 70px;
 }
